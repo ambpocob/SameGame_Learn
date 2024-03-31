@@ -147,6 +147,7 @@ END_MESSAGE_MAP()
 // Команда приложения для запуска диалога
 void CSameGameApp::OnAppAbout()
 {
+	//Уже исправили
 	CAboutDlg aboutDlg;
 	aboutDlg.DoModal();
 }
