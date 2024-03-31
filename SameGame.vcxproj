@@ -210,6 +210,7 @@
     <None Include="res\SameGame.rc2" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="res\IMAG0313.bmp" />
     <Image Include="res\SameGame.ico" />
     <Image Include="res\SameGameDoc.ico" />
   </ItemGroup>

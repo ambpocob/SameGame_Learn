@@ -83,5 +83,8 @@
     <Image Include="res\SameGame.ico">
       <Filter>Файлы ресурсов</Filter>
     </Image>
+    <Image Include="res\IMAG0313.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
   </ItemGroup>
 </Project>
