@@ -192,7 +192,7 @@
   <ItemGroup>
     <ClCompile Include="MainFrm.cpp" />
     <ClCompile Include="OptionDialog.cpp" />
-    <ClCompile Include="SameGame.cpp" />
+    <ClCompile Include="SameGameApp.cpp" />
     <ClCompile Include="SameGameBoard.cpp" />
     <ClCompile Include="SameGameDoc.cpp" />
     <ClCompile Include="SameGameView.cpp" />
