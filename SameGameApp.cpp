@@ -149,7 +149,7 @@ void CSameGameApp::OnAppAbout()
 {
 	//Потом будем портить здесь
 	CAboutDlg aboutDlg;
-	aboutDlg.DoModal();
+	aboutDlg.Detach();
 }
 
 // Обработчики сообщений CSameGameApp
