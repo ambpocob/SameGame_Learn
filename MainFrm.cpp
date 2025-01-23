@@ -1,5 +1,5 @@
 ﻿
-// MainFrm.cpp: реализация класса CMainFrame
+// MainFrm.cpp: реализация класса CMainFrame (Главное окно программы)
 //
 
 #include "stdafx.h"
@@ -27,6 +27,7 @@ CMainFrame::CMainFrame() noexcept
 
 CMainFrame::~CMainFrame()
 {
+	// TODO: добавьте код удаления члена
 }
 
 BOOL CMainFrame::PreCreateWindow(CREATESTRUCT& cs)

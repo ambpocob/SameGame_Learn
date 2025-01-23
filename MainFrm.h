@@ -1,5 +1,5 @@
 ﻿
-// MainFrm.h: интерфейс класса CMainFrame
+// MainFrm.h: интерфейс класса CMainFrame (Главное окно программы)
 //
 
 #pragma once
