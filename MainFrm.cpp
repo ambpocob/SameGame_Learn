@@ -1,5 +1,5 @@
 ﻿
-// MainFrm.cpp: реализация класса CMainFrame
+// MainFrm.cpp: реализация класса CMainFrame (Главное окно программы)
 //
 
 #include "stdafx.h"
