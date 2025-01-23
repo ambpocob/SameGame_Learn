@@ -27,6 +27,7 @@ CMainFrame::CMainFrame() noexcept
 
 CMainFrame::~CMainFrame()
 {
+	// TODO: добавьте код удаления члена
 }
 
 BOOL CMainFrame::PreCreateWindow(CREATESTRUCT& cs)
